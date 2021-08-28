@@ -1,0 +1,7 @@
+com/epam/telephone_directory/entity/Phones.class
+com/epam/telephone_directory/config/SpringWebMvcConfig.class
+com/epam/telephone_directory/config/MyWebInitializer.class
+com/epam/telephone_directory/entity/UserProfile.class
+com/epam/telephone_directory/controller/UploadController.class
+com/epam/telephone_directory/entity/User.class
+com/epam/telephone_directory/service/JsonFileService.class
